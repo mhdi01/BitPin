@@ -1,0 +1,44 @@
+[
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user1",
+            "password": "password123"
+        }
+    },
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user2",
+            "password": "pass456"
+        }
+    },
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user3",
+            "password": "pass4568"
+        }
+    },
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user4",
+            "password": "password456"
+        }
+    },
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user5",
+            "password": "passer456"
+        }
+    },
+    {
+        "model": "auth.user",
+        "fields": {
+            "username": "user6",
+            "password": "passwwe456"
+        }
+    }
+]

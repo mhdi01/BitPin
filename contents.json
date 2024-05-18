@@ -1,0 +1,16 @@
+[
+    {
+        "model": "contentService.content",
+        "fields": {
+            "title": "FirstTitle",
+            "description": "FirstDesc"
+        }
+    },
+    {
+        "model": "contentService.content",
+        "fields": {
+            "title": "SecondTitle",
+            "description": "SecondDesc"
+        }
+    }
+]
