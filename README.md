@@ -46,7 +46,6 @@ A Django-based service for rating content with features to detect and handle sus
 1. Make migrations and migrate them
 
   ```bash
-  python manage.py makemigrations
   python manage.py migrate
 ```
 2. Then run the project
